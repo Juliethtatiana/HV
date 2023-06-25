@@ -52,6 +52,11 @@ a.btn {
 a.btn .fa {
   margin-right: 5px;
 }
+.phone{
+  color:#797b7c;
+  font-size: 13px;
+  margin: 0 5px;
+}
 .btn:focus,
 a.btn:focus {
   color: #fff;
