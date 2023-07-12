@@ -52,6 +52,16 @@ a.btn {
 a.btn .fa {
   margin-right: 5px;
 }
+.eventhub{
+  max-width: 50%;
+  
+}
+.last_proj{
+  width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .phone{
   color:#797b7c;
   font-size: 13px;
